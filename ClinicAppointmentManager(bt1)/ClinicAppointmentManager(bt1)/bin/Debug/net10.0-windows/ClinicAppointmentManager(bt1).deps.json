@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ClinicAppointmentManager(bt1)/1.0.0": {
+        "runtime": {
+          "ClinicAppointmentManager(bt1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicAppointmentManager(bt1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

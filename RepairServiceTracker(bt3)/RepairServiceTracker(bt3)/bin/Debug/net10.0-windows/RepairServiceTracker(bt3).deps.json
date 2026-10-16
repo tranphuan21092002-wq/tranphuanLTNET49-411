@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RepairServiceTracker(bt3)/1.0.0": {
+        "runtime": {
+          "RepairServiceTracker(bt3).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepairServiceTracker(bt3)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker.FormRepairTracker.resources
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).csproj.GenerateResource.cache
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).AssemblyInfoInputs.cache
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).AssemblyInfo.cs
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).csproj.CoreCompileInputs.cache
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\bin\Debug\net10.0-windows\RepairServiceTracker(bt3).exe
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\bin\Debug\net10.0-windows\RepairServiceTracker(bt3).deps.json
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\bin\Debug\net10.0-windows\RepairServiceTracker(bt3).runtimeconfig.json
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\bin\Debug\net10.0-windows\RepairServiceTracker(bt3).dll
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\bin\Debug\net10.0-windows\RepairServiceTracker(bt3).pdb
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).dll
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\refint\RepairServiceTracker(bt3).dll
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).pdb
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairServiceTracker(bt3).genruntimeconfig.cache
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\ref\RepairServiceTracker(bt3).dll
+D:\LT .NET\RepairServiceTracker(bt3)\RepairServiceTracker(bt3)\obj\Debug\net10.0-windows\RepairSe.DC879EB0.Up2Date
